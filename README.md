@@ -1,7 +1,7 @@
 ## 个人常用的字体图标
 
 ## 字体一览
-字体展示 [icon_font/index.html](http://Lojze.github.io/icon_font/index.html)
+字体展示 [icon_font/index.html](http://lojze.github.io/icon_font/)
 
 ##安装
 `bower install git://github.com/Lojze/icon_font.git --save`
