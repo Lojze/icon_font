@@ -8,7 +8,7 @@
 
 在页面中引用 iconfont.css 即可：
 
-网页使用: `<link href="bower_components/baicons2.css" media="all" rel="stylesheet" type="text/css">`
+网页使用: `<link href="icon_font/iconfont.css" media="all" rel="stylesheet" type="text/css">`
 
 ##命名规范
 基本规则是按照英文翻译过来
